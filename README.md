@@ -1,1 +1,1 @@
-# virtual-library-performance-tests
+This repo perfomance contains tests for "Virtual library" project.
